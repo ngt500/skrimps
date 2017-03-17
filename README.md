@@ -1,6 +1,8 @@
 # skrimps
 OS X Privacy Conscious Skript. Skrimps features many advanced commands that users use to configure the OS X environment.
+
 The Goal of Skrimps is to disable unnecessary hardware, networking and application preference settings.
+
 Currently works in **OSX El Capitan**
 
 ## Features
@@ -24,8 +26,11 @@ Pipes output of commands to "sechecklist.txt"
 
 ## To do
 Cleanup!
+
 Add arguments for different sections
+
 Add OS version logic
+
 Modify to support OSX Mavericks, Yosemite and Sierra
 
 ## Use at your own risk
