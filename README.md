@@ -27,6 +27,8 @@ Download skrimps.sh
 ```bash
 chmod +x skrimps.sh
 ```
+Close open applications
+
 Launch in Terminal
 
 _./skrimps.sh_
