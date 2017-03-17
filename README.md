@@ -5,13 +5,21 @@ Currently works in **OSX El Capitan**
 
 ## Features
 Networking:
+
 Enables Firewall, logging and stealth mode
+
 Disables Location Services
+
 IPV6: disable for network devices
+
 Disables Captive portal, Bluetooth, Infrared, Apple Remote Events, Apple Remote Login
+
 Filevault keys destroyed on standby
+
 Disable writing Metadata on USB and Network drives (.DS_Store)
+
 Safari: Disables Autofill, Auto Open Safe Downloads, History, Fruadulent Website Warning, Smart Search Field, Frequent sites
+
 Pipes output of commands to "sechecklist.txt"
 
 ## To do
