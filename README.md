@@ -36,3 +36,7 @@ Close open applications
 Launch in Terminal
 
 _./skrimps.sh_
+
+
+### What does it mean?
+SeKuring Really Important Stuff
