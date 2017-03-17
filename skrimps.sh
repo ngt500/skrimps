@@ -170,5 +170,10 @@ defaults read com.apple.safari ShowOverlayStatusBar >> sechecklist.txt
 echo -n "WarnAboutFraudulentWebsites: " >> sechecklist.txt
 defaults read com.apple.safari WarnAboutFraudulentWebsites >> sechecklist.txt
 
-defaults write com.apple.screencapture type jpg;killall SystemUIServer
+defaults write com.apple.screencapture type jpg
+defaults write com.apple.screencapture "include-date" 0
+# El Capitan
+defaults write com.apple.screencapture include-date -bool false; killall SystemUIServer
+
+
 open sechecklist.txt
